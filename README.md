@@ -17,6 +17,11 @@ The green part of the block diagram shows the components implemented in the proj
 ## Applications
 Motor control is being used in numerous applications such as automotive drives, industrial processing, domestic applicances, etc. Different applications pose different challenges for the motor drive and an SoC that covers a wide range of applications will have huge potential. Our SoC combines different components that will be used in designing a motor controller catering such large application space.
 
+## A Demo on Nexys A7 Board
+We have implemented the motor control module on a <a href='https://store.digilentinc.com/nexys-a7-fpga-trainer-board-recommended-for-ece-curriculum/'>Nexys A7</a> board to verify its working. The following video shows the demo implemented on the board:
+
+[![Demo](https://img.youtube.com/vi/vyNLuQkx4Jc/0.jpg)](https://www.youtube.com/watch?v=vyNLuQkx4Jc)
+
 ## Motor Module Registers and Their Descriptions
 
 The Motor control module has three building blocks, namely, Quadrature Encoder Interface (QEI) for feedback input, a PID controller and a PWM timer. The module has multiple registers for its configuration and operation. The register address map for the module is given in the following table.
