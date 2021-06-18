@@ -78,7 +78,7 @@ The registers _QEI Count_ register is 32-bit, while _QEI Speed_ register is 16-b
 
 | 31 --- 10 | 9| 8 | 7 ---1 | 0   |
 | ---| --- |--- |--- |--- |
-| Reserved |TEST EN | SYNC EN | FB Sel |
+| Reserved |TEST EN | SYNC EN | Unused | FB Sel |
 
 Timer Configuration Register
 
