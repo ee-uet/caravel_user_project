@@ -1,4 +1,4 @@
-# UET Lahore Servo Motor Controller
+# UET Lahore Servo Motor Controller Module
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![UPRJ_CI](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/user_project_ci.yml) [![Caravel Build](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml/badge.svg)](https://github.com/efabless/caravel_project_example/actions/workflows/caravel_build.yml)
 
@@ -12,7 +12,7 @@ A block diagram of the project is given below:
 
 ![Block Diagram](./docs/source/_static/blockdia.svg)
 
-The green part of the block diagram shows the components implemented in the project. One of the motor module runs the closed loop system, after the reset, with the quadrature encoder feedback and generates the corresponding 
+The green part of the block diagram shows the components implemented in the project. One of the motor module runs the closed loop system, after the reset, with the quadrature encoder feedback and generates the corresponding PWM output.
 
 ## Applications
 Motor control is being used in numerous applications such as automotive drives, industrial processing, domestic applicances, etc. Different applications pose different challenges for the motor drive and an SoC that covers a wide range of applications will have huge potential. Our SoC combines different components that will be used in designing a motor controller catering such large application space.
