@@ -116,7 +116,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 87.950 -4.000 88.230 4.000 ;
+        RECT 89.790 -4.000 90.070 4.000 ;
     END
   END io_b_adr_i[0]
   PIN io_b_adr_i[1]
@@ -124,7 +124,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 94.390 -4.000 94.670 4.000 ;
+        RECT 96.230 -4.000 96.510 4.000 ;
     END
   END io_b_adr_i[1]
   PIN io_b_cs_i_0
@@ -148,7 +148,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 74.610 -4.000 74.890 4.000 ;
+        RECT 76.450 -4.000 76.730 4.000 ;
     END
   END io_b_cs_i_10
   PIN io_b_cs_i_2
@@ -156,7 +156,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 22.630 -4.000 22.910 4.000 ;
+        RECT 23.090 -4.000 23.370 4.000 ;
     END
   END io_b_cs_i_2
   PIN io_b_cs_i_3
@@ -164,7 +164,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 29.070 -4.000 29.350 4.000 ;
+        RECT 29.530 -4.000 29.810 4.000 ;
     END
   END io_b_cs_i_3
   PIN io_b_cs_i_4
@@ -172,7 +172,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 35.510 -4.000 35.790 4.000 ;
+        RECT 36.430 -4.000 36.710 4.000 ;
     END
   END io_b_cs_i_4
   PIN io_b_cs_i_5
@@ -180,7 +180,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 42.410 -4.000 42.690 4.000 ;
+        RECT 42.870 -4.000 43.150 4.000 ;
     END
   END io_b_cs_i_5
   PIN io_b_cs_i_6
@@ -188,7 +188,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 48.850 -4.000 49.130 4.000 ;
+        RECT 49.770 -4.000 50.050 4.000 ;
     END
   END io_b_cs_i_6
   PIN io_b_cs_i_7
@@ -196,7 +196,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 55.290 -4.000 55.570 4.000 ;
+        RECT 56.210 -4.000 56.490 4.000 ;
     END
   END io_b_cs_i_7
   PIN io_b_cs_i_8
@@ -204,7 +204,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 61.730 -4.000 62.010 4.000 ;
+        RECT 63.110 -4.000 63.390 4.000 ;
     END
   END io_b_cs_i_8
   PIN io_b_cs_i_9
@@ -212,7 +212,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 68.170 -4.000 68.450 4.000 ;
+        RECT 69.550 -4.000 69.830 4.000 ;
     END
   END io_b_cs_i_9
   PIN io_b_dat_i[0]
@@ -220,7 +220,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 100.830 -4.000 101.110 4.000 ;
+        RECT 103.130 -4.000 103.410 4.000 ;
     END
   END io_b_dat_i[0]
   PIN io_b_dat_i[10]
@@ -228,7 +228,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 166.150 -4.000 166.430 4.000 ;
+        RECT 169.830 -4.000 170.110 4.000 ;
     END
   END io_b_dat_i[10]
   PIN io_b_dat_i[11]
@@ -236,7 +236,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 172.590 -4.000 172.870 4.000 ;
+        RECT 176.270 -4.000 176.550 4.000 ;
     END
   END io_b_dat_i[11]
   PIN io_b_dat_i[12]
@@ -244,7 +244,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 179.030 -4.000 179.310 4.000 ;
+        RECT 183.170 -4.000 183.450 4.000 ;
     END
   END io_b_dat_i[12]
   PIN io_b_dat_i[13]
@@ -252,7 +252,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 185.470 -4.000 185.750 4.000 ;
+        RECT 189.610 -4.000 189.890 4.000 ;
     END
   END io_b_dat_i[13]
   PIN io_b_dat_i[14]
@@ -260,7 +260,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 192.370 -4.000 192.650 4.000 ;
+        RECT 196.510 -4.000 196.790 4.000 ;
     END
   END io_b_dat_i[14]
   PIN io_b_dat_i[15]
@@ -268,7 +268,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 198.810 -4.000 199.090 4.000 ;
+        RECT 202.950 -4.000 203.230 4.000 ;
     END
   END io_b_dat_i[15]
   PIN io_b_dat_i[1]
@@ -276,7 +276,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 107.270 -4.000 107.550 4.000 ;
+        RECT 109.570 -4.000 109.850 4.000 ;
     END
   END io_b_dat_i[1]
   PIN io_b_dat_i[2]
@@ -284,7 +284,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 113.710 -4.000 113.990 4.000 ;
+        RECT 116.470 -4.000 116.750 4.000 ;
     END
   END io_b_dat_i[2]
   PIN io_b_dat_i[3]
@@ -292,7 +292,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 120.610 -4.000 120.890 4.000 ;
+        RECT 122.910 -4.000 123.190 4.000 ;
     END
   END io_b_dat_i[3]
   PIN io_b_dat_i[4]
@@ -300,7 +300,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 127.050 -4.000 127.330 4.000 ;
+        RECT 129.810 -4.000 130.090 4.000 ;
     END
   END io_b_dat_i[4]
   PIN io_b_dat_i[5]
@@ -308,7 +308,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 133.490 -4.000 133.770 4.000 ;
+        RECT 136.250 -4.000 136.530 4.000 ;
     END
   END io_b_dat_i[5]
   PIN io_b_dat_i[6]
@@ -316,7 +316,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 139.930 -4.000 140.210 4.000 ;
+        RECT 143.150 -4.000 143.430 4.000 ;
     END
   END io_b_dat_i[6]
   PIN io_b_dat_i[7]
@@ -324,7 +324,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 146.370 -4.000 146.650 4.000 ;
+        RECT 149.590 -4.000 149.870 4.000 ;
     END
   END io_b_dat_i[7]
   PIN io_b_dat_i[8]
@@ -332,7 +332,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 153.270 -4.000 153.550 4.000 ;
+        RECT 156.490 -4.000 156.770 4.000 ;
     END
   END io_b_dat_i[8]
   PIN io_b_dat_i[9]
@@ -340,7 +340,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 159.710 -4.000 159.990 4.000 ;
+        RECT 162.930 -4.000 163.210 4.000 ;
     END
   END io_b_dat_i[9]
   PIN io_b_dat_o_0[0]
@@ -356,7 +356,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 185.470 276.000 185.750 284.000 ;
+        RECT 183.630 276.000 183.910 284.000 ;
     END
   END io_b_dat_o_0[10]
   PIN io_b_dat_o_0[11]
@@ -364,7 +364,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 204.330 276.000 204.610 284.000 ;
+        RECT 202.030 276.000 202.310 284.000 ;
     END
   END io_b_dat_o_0[11]
   PIN io_b_dat_o_0[12]
@@ -372,7 +372,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 222.730 276.000 223.010 284.000 ;
+        RECT 220.430 276.000 220.710 284.000 ;
     END
   END io_b_dat_o_0[12]
   PIN io_b_dat_o_0[13]
@@ -380,7 +380,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 241.130 276.000 241.410 284.000 ;
+        RECT 238.370 276.000 238.650 284.000 ;
     END
   END io_b_dat_o_0[13]
   PIN io_b_dat_o_0[14]
@@ -388,7 +388,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 259.990 276.000 260.270 284.000 ;
+        RECT 256.770 276.000 257.050 284.000 ;
     END
   END io_b_dat_o_0[14]
   PIN io_b_dat_o_0[15]
@@ -396,7 +396,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 278.390 276.000 278.670 284.000 ;
+        RECT 275.170 276.000 275.450 284.000 ;
     END
   END io_b_dat_o_0[15]
   PIN io_b_dat_o_0[1]
@@ -404,7 +404,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 18.950 276.000 19.230 284.000 ;
+        RECT 18.490 276.000 18.770 284.000 ;
     END
   END io_b_dat_o_0[1]
   PIN io_b_dat_o_0[2]
@@ -412,7 +412,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 37.350 276.000 37.630 284.000 ;
+        RECT 36.890 276.000 37.170 284.000 ;
     END
   END io_b_dat_o_0[2]
   PIN io_b_dat_o_0[3]
@@ -420,7 +420,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 55.750 276.000 56.030 284.000 ;
+        RECT 55.290 276.000 55.570 284.000 ;
     END
   END io_b_dat_o_0[3]
   PIN io_b_dat_o_0[4]
@@ -428,7 +428,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 74.610 276.000 74.890 284.000 ;
+        RECT 73.690 276.000 73.970 284.000 ;
     END
   END io_b_dat_o_0[4]
   PIN io_b_dat_o_0[5]
@@ -436,7 +436,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 93.010 276.000 93.290 284.000 ;
+        RECT 92.090 276.000 92.370 284.000 ;
     END
   END io_b_dat_o_0[5]
   PIN io_b_dat_o_0[6]
@@ -444,7 +444,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 111.410 276.000 111.690 284.000 ;
+        RECT 110.490 276.000 110.770 284.000 ;
     END
   END io_b_dat_o_0[6]
   PIN io_b_dat_o_0[7]
@@ -452,7 +452,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 130.270 276.000 130.550 284.000 ;
+        RECT 128.430 276.000 128.710 284.000 ;
     END
   END io_b_dat_o_0[7]
   PIN io_b_dat_o_0[8]
@@ -460,7 +460,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 148.670 276.000 148.950 284.000 ;
+        RECT 146.830 276.000 147.110 284.000 ;
     END
   END io_b_dat_o_0[8]
   PIN io_b_dat_o_0[9]
@@ -468,7 +468,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 167.070 276.000 167.350 284.000 ;
+        RECT 165.230 276.000 165.510 284.000 ;
     END
   END io_b_dat_o_0[9]
   PIN io_b_dat_o_10[0]
@@ -484,7 +484,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 202.490 276.000 202.770 284.000 ;
+        RECT 200.190 276.000 200.470 284.000 ;
     END
   END io_b_dat_o_10[10]
   PIN io_b_dat_o_10[11]
@@ -492,7 +492,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 220.890 276.000 221.170 284.000 ;
+        RECT 218.590 276.000 218.870 284.000 ;
     END
   END io_b_dat_o_10[11]
   PIN io_b_dat_o_10[12]
@@ -500,7 +500,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 239.750 276.000 240.030 284.000 ;
+        RECT 236.990 276.000 237.270 284.000 ;
     END
   END io_b_dat_o_10[12]
   PIN io_b_dat_o_10[13]
@@ -508,7 +508,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 258.150 276.000 258.430 284.000 ;
+        RECT 255.390 276.000 255.670 284.000 ;
     END
   END io_b_dat_o_10[13]
   PIN io_b_dat_o_10[14]
@@ -516,7 +516,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 276.550 276.000 276.830 284.000 ;
+        RECT 273.790 276.000 274.070 284.000 ;
     END
   END io_b_dat_o_10[14]
   PIN io_b_dat_o_10[15]
@@ -524,7 +524,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 295.410 276.000 295.690 284.000 ;
+        RECT 291.730 276.000 292.010 284.000 ;
     END
   END io_b_dat_o_10[15]
   PIN io_b_dat_o_10[1]
@@ -540,7 +540,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 54.370 276.000 54.650 284.000 ;
+        RECT 53.450 276.000 53.730 284.000 ;
     END
   END io_b_dat_o_10[2]
   PIN io_b_dat_o_10[3]
@@ -548,7 +548,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 72.770 276.000 73.050 284.000 ;
+        RECT 71.850 276.000 72.130 284.000 ;
     END
   END io_b_dat_o_10[3]
   PIN io_b_dat_o_10[4]
@@ -556,7 +556,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 91.170 276.000 91.450 284.000 ;
+        RECT 90.250 276.000 90.530 284.000 ;
     END
   END io_b_dat_o_10[4]
   PIN io_b_dat_o_10[5]
@@ -564,7 +564,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 110.030 276.000 110.310 284.000 ;
+        RECT 108.650 276.000 108.930 284.000 ;
     END
   END io_b_dat_o_10[5]
   PIN io_b_dat_o_10[6]
@@ -572,7 +572,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 128.430 276.000 128.710 284.000 ;
+        RECT 127.050 276.000 127.330 284.000 ;
     END
   END io_b_dat_o_10[6]
   PIN io_b_dat_o_10[7]
@@ -580,7 +580,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 146.830 276.000 147.110 284.000 ;
+        RECT 145.450 276.000 145.730 284.000 ;
     END
   END io_b_dat_o_10[7]
   PIN io_b_dat_o_10[8]
@@ -588,7 +588,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 165.230 276.000 165.510 284.000 ;
+        RECT 163.390 276.000 163.670 284.000 ;
     END
   END io_b_dat_o_10[8]
   PIN io_b_dat_o_10[9]
@@ -596,7 +596,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 184.090 276.000 184.370 284.000 ;
+        RECT 181.790 276.000 182.070 284.000 ;
     END
   END io_b_dat_o_10[9]
   PIN io_b_dat_o_1[0]
@@ -612,7 +612,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 187.310 276.000 187.590 284.000 ;
+        RECT 185.470 276.000 185.750 284.000 ;
     END
   END io_b_dat_o_1[10]
   PIN io_b_dat_o_1[11]
@@ -620,7 +620,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 205.710 276.000 205.990 284.000 ;
+        RECT 203.410 276.000 203.690 284.000 ;
     END
   END io_b_dat_o_1[11]
   PIN io_b_dat_o_1[12]
@@ -628,7 +628,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 224.570 276.000 224.850 284.000 ;
+        RECT 221.810 276.000 222.090 284.000 ;
     END
   END io_b_dat_o_1[12]
   PIN io_b_dat_o_1[13]
@@ -636,7 +636,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 242.970 276.000 243.250 284.000 ;
+        RECT 240.210 276.000 240.490 284.000 ;
     END
   END io_b_dat_o_1[13]
   PIN io_b_dat_o_1[14]
@@ -644,7 +644,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 261.370 276.000 261.650 284.000 ;
+        RECT 258.610 276.000 258.890 284.000 ;
     END
   END io_b_dat_o_1[14]
   PIN io_b_dat_o_1[15]
@@ -652,7 +652,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 280.230 276.000 280.510 284.000 ;
+        RECT 277.010 276.000 277.290 284.000 ;
     END
   END io_b_dat_o_1[15]
   PIN io_b_dat_o_1[1]
@@ -668,7 +668,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 39.190 276.000 39.470 284.000 ;
+        RECT 38.730 276.000 39.010 284.000 ;
     END
   END io_b_dat_o_1[2]
   PIN io_b_dat_o_1[3]
@@ -676,7 +676,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 57.590 276.000 57.870 284.000 ;
+        RECT 57.130 276.000 57.410 284.000 ;
     END
   END io_b_dat_o_1[3]
   PIN io_b_dat_o_1[4]
@@ -684,7 +684,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 75.990 276.000 76.270 284.000 ;
+        RECT 75.530 276.000 75.810 284.000 ;
     END
   END io_b_dat_o_1[4]
   PIN io_b_dat_o_1[5]
@@ -692,7 +692,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 94.850 276.000 95.130 284.000 ;
+        RECT 93.470 276.000 93.750 284.000 ;
     END
   END io_b_dat_o_1[5]
   PIN io_b_dat_o_1[6]
@@ -700,7 +700,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 113.250 276.000 113.530 284.000 ;
+        RECT 111.870 276.000 112.150 284.000 ;
     END
   END io_b_dat_o_1[6]
   PIN io_b_dat_o_1[7]
@@ -708,7 +708,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 131.650 276.000 131.930 284.000 ;
+        RECT 130.270 276.000 130.550 284.000 ;
     END
   END io_b_dat_o_1[7]
   PIN io_b_dat_o_1[8]
@@ -716,7 +716,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 150.510 276.000 150.790 284.000 ;
+        RECT 148.670 276.000 148.950 284.000 ;
     END
   END io_b_dat_o_1[8]
   PIN io_b_dat_o_1[9]
@@ -724,7 +724,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 168.910 276.000 169.190 284.000 ;
+        RECT 167.070 276.000 167.350 284.000 ;
     END
   END io_b_dat_o_1[9]
   PIN io_b_dat_o_2[0]
@@ -740,7 +740,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 189.150 276.000 189.430 284.000 ;
+        RECT 186.850 276.000 187.130 284.000 ;
     END
   END io_b_dat_o_2[10]
   PIN io_b_dat_o_2[11]
@@ -748,7 +748,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 207.550 276.000 207.830 284.000 ;
+        RECT 205.250 276.000 205.530 284.000 ;
     END
   END io_b_dat_o_2[11]
   PIN io_b_dat_o_2[12]
@@ -756,7 +756,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 225.950 276.000 226.230 284.000 ;
+        RECT 223.650 276.000 223.930 284.000 ;
     END
   END io_b_dat_o_2[12]
   PIN io_b_dat_o_2[13]
@@ -764,7 +764,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 244.810 276.000 245.090 284.000 ;
+        RECT 242.050 276.000 242.330 284.000 ;
     END
   END io_b_dat_o_2[13]
   PIN io_b_dat_o_2[14]
@@ -772,7 +772,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 263.210 276.000 263.490 284.000 ;
+        RECT 260.450 276.000 260.730 284.000 ;
     END
   END io_b_dat_o_2[14]
   PIN io_b_dat_o_2[15]
@@ -780,7 +780,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 281.610 276.000 281.890 284.000 ;
+        RECT 278.390 276.000 278.670 284.000 ;
     END
   END io_b_dat_o_2[15]
   PIN io_b_dat_o_2[1]
@@ -796,7 +796,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 40.570 276.000 40.850 284.000 ;
+        RECT 40.110 276.000 40.390 284.000 ;
     END
   END io_b_dat_o_2[2]
   PIN io_b_dat_o_2[3]
@@ -804,7 +804,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 59.430 276.000 59.710 284.000 ;
+        RECT 58.510 276.000 58.790 284.000 ;
     END
   END io_b_dat_o_2[3]
   PIN io_b_dat_o_2[4]
@@ -812,7 +812,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 77.830 276.000 78.110 284.000 ;
+        RECT 76.910 276.000 77.190 284.000 ;
     END
   END io_b_dat_o_2[4]
   PIN io_b_dat_o_2[5]
@@ -820,7 +820,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 96.230 276.000 96.510 284.000 ;
+        RECT 95.310 276.000 95.590 284.000 ;
     END
   END io_b_dat_o_2[5]
   PIN io_b_dat_o_2[6]
@@ -828,7 +828,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 115.090 276.000 115.370 284.000 ;
+        RECT 113.710 276.000 113.990 284.000 ;
     END
   END io_b_dat_o_2[6]
   PIN io_b_dat_o_2[7]
@@ -836,7 +836,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 133.490 276.000 133.770 284.000 ;
+        RECT 132.110 276.000 132.390 284.000 ;
     END
   END io_b_dat_o_2[7]
   PIN io_b_dat_o_2[8]
@@ -844,7 +844,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 151.890 276.000 152.170 284.000 ;
+        RECT 150.510 276.000 150.790 284.000 ;
     END
   END io_b_dat_o_2[8]
   PIN io_b_dat_o_2[9]
@@ -852,7 +852,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 170.290 276.000 170.570 284.000 ;
+        RECT 168.450 276.000 168.730 284.000 ;
     END
   END io_b_dat_o_2[9]
   PIN io_b_dat_o_3[0]
@@ -868,7 +868,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 190.530 276.000 190.810 284.000 ;
+        RECT 188.690 276.000 188.970 284.000 ;
     END
   END io_b_dat_o_3[10]
   PIN io_b_dat_o_3[11]
@@ -876,7 +876,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 209.390 276.000 209.670 284.000 ;
+        RECT 207.090 276.000 207.370 284.000 ;
     END
   END io_b_dat_o_3[11]
   PIN io_b_dat_o_3[12]
@@ -884,7 +884,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 227.790 276.000 228.070 284.000 ;
+        RECT 225.490 276.000 225.770 284.000 ;
     END
   END io_b_dat_o_3[12]
   PIN io_b_dat_o_3[13]
@@ -892,7 +892,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 246.190 276.000 246.470 284.000 ;
+        RECT 243.430 276.000 243.710 284.000 ;
     END
   END io_b_dat_o_3[13]
   PIN io_b_dat_o_3[14]
@@ -900,7 +900,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 265.050 276.000 265.330 284.000 ;
+        RECT 261.830 276.000 262.110 284.000 ;
     END
   END io_b_dat_o_3[14]
   PIN io_b_dat_o_3[15]
@@ -908,7 +908,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 283.450 276.000 283.730 284.000 ;
+        RECT 280.230 276.000 280.510 284.000 ;
     END
   END io_b_dat_o_3[15]
   PIN io_b_dat_o_3[1]
@@ -916,7 +916,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 24.010 276.000 24.290 284.000 ;
+        RECT 23.550 276.000 23.830 284.000 ;
     END
   END io_b_dat_o_3[1]
   PIN io_b_dat_o_3[2]
@@ -924,7 +924,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 42.410 276.000 42.690 284.000 ;
+        RECT 41.950 276.000 42.230 284.000 ;
     END
   END io_b_dat_o_3[2]
   PIN io_b_dat_o_3[3]
@@ -932,7 +932,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 60.810 276.000 61.090 284.000 ;
+        RECT 60.350 276.000 60.630 284.000 ;
     END
   END io_b_dat_o_3[3]
   PIN io_b_dat_o_3[4]
@@ -940,7 +940,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 79.670 276.000 79.950 284.000 ;
+        RECT 78.750 276.000 79.030 284.000 ;
     END
   END io_b_dat_o_3[4]
   PIN io_b_dat_o_3[5]
@@ -948,7 +948,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 98.070 276.000 98.350 284.000 ;
+        RECT 97.150 276.000 97.430 284.000 ;
     END
   END io_b_dat_o_3[5]
   PIN io_b_dat_o_3[6]
@@ -956,7 +956,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 116.470 276.000 116.750 284.000 ;
+        RECT 115.090 276.000 115.370 284.000 ;
     END
   END io_b_dat_o_3[6]
   PIN io_b_dat_o_3[7]
@@ -964,7 +964,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 135.330 276.000 135.610 284.000 ;
+        RECT 133.490 276.000 133.770 284.000 ;
     END
   END io_b_dat_o_3[7]
   PIN io_b_dat_o_3[8]
@@ -972,7 +972,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 153.730 276.000 154.010 284.000 ;
+        RECT 151.890 276.000 152.170 284.000 ;
     END
   END io_b_dat_o_3[8]
   PIN io_b_dat_o_3[9]
@@ -980,7 +980,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 172.130 276.000 172.410 284.000 ;
+        RECT 170.290 276.000 170.570 284.000 ;
     END
   END io_b_dat_o_3[9]
   PIN io_b_dat_o_4[0]
@@ -996,7 +996,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 192.370 276.000 192.650 284.000 ;
+        RECT 190.070 276.000 190.350 284.000 ;
     END
   END io_b_dat_o_4[10]
   PIN io_b_dat_o_4[11]
@@ -1004,7 +1004,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 210.770 276.000 211.050 284.000 ;
+        RECT 208.470 276.000 208.750 284.000 ;
     END
   END io_b_dat_o_4[11]
   PIN io_b_dat_o_4[12]
@@ -1012,7 +1012,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 229.630 276.000 229.910 284.000 ;
+        RECT 226.870 276.000 227.150 284.000 ;
     END
   END io_b_dat_o_4[12]
   PIN io_b_dat_o_4[13]
@@ -1020,7 +1020,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 248.030 276.000 248.310 284.000 ;
+        RECT 245.270 276.000 245.550 284.000 ;
     END
   END io_b_dat_o_4[13]
   PIN io_b_dat_o_4[14]
@@ -1028,7 +1028,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 266.430 276.000 266.710 284.000 ;
+        RECT 263.670 276.000 263.950 284.000 ;
     END
   END io_b_dat_o_4[14]
   PIN io_b_dat_o_4[15]
@@ -1036,7 +1036,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 285.290 276.000 285.570 284.000 ;
+        RECT 282.070 276.000 282.350 284.000 ;
     END
   END io_b_dat_o_4[15]
   PIN io_b_dat_o_4[1]
@@ -1052,7 +1052,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 44.250 276.000 44.530 284.000 ;
+        RECT 43.790 276.000 44.070 284.000 ;
     END
   END io_b_dat_o_4[2]
   PIN io_b_dat_o_4[3]
@@ -1060,7 +1060,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 62.650 276.000 62.930 284.000 ;
+        RECT 62.190 276.000 62.470 284.000 ;
     END
   END io_b_dat_o_4[3]
   PIN io_b_dat_o_4[4]
@@ -1068,7 +1068,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 81.050 276.000 81.330 284.000 ;
+        RECT 80.130 276.000 80.410 284.000 ;
     END
   END io_b_dat_o_4[4]
   PIN io_b_dat_o_4[5]
@@ -1076,7 +1076,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 99.910 276.000 100.190 284.000 ;
+        RECT 98.530 276.000 98.810 284.000 ;
     END
   END io_b_dat_o_4[5]
   PIN io_b_dat_o_4[6]
@@ -1084,7 +1084,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 118.310 276.000 118.590 284.000 ;
+        RECT 116.930 276.000 117.210 284.000 ;
     END
   END io_b_dat_o_4[6]
   PIN io_b_dat_o_4[7]
@@ -1092,7 +1092,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 136.710 276.000 136.990 284.000 ;
+        RECT 135.330 276.000 135.610 284.000 ;
     END
   END io_b_dat_o_4[7]
   PIN io_b_dat_o_4[8]
@@ -1100,7 +1100,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 155.110 276.000 155.390 284.000 ;
+        RECT 153.730 276.000 154.010 284.000 ;
     END
   END io_b_dat_o_4[8]
   PIN io_b_dat_o_4[9]
@@ -1108,7 +1108,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 173.970 276.000 174.250 284.000 ;
+        RECT 172.130 276.000 172.410 284.000 ;
     END
   END io_b_dat_o_4[9]
   PIN io_b_dat_o_5[0]
@@ -1124,7 +1124,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 194.210 276.000 194.490 284.000 ;
+        RECT 191.910 276.000 192.190 284.000 ;
     END
   END io_b_dat_o_5[10]
   PIN io_b_dat_o_5[11]
@@ -1132,7 +1132,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 212.610 276.000 212.890 284.000 ;
+        RECT 210.310 276.000 210.590 284.000 ;
     END
   END io_b_dat_o_5[11]
   PIN io_b_dat_o_5[12]
@@ -1140,7 +1140,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 231.010 276.000 231.290 284.000 ;
+        RECT 228.710 276.000 228.990 284.000 ;
     END
   END io_b_dat_o_5[12]
   PIN io_b_dat_o_5[13]
@@ -1148,7 +1148,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 249.870 276.000 250.150 284.000 ;
+        RECT 247.110 276.000 247.390 284.000 ;
     END
   END io_b_dat_o_5[13]
   PIN io_b_dat_o_5[14]
@@ -1156,7 +1156,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 268.270 276.000 268.550 284.000 ;
+        RECT 265.050 276.000 265.330 284.000 ;
     END
   END io_b_dat_o_5[14]
   PIN io_b_dat_o_5[15]
@@ -1164,7 +1164,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 286.670 276.000 286.950 284.000 ;
+        RECT 283.450 276.000 283.730 284.000 ;
     END
   END io_b_dat_o_5[15]
   PIN io_b_dat_o_5[1]
@@ -1172,7 +1172,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 27.230 276.000 27.510 284.000 ;
+        RECT 26.770 276.000 27.050 284.000 ;
     END
   END io_b_dat_o_5[1]
   PIN io_b_dat_o_5[2]
@@ -1180,7 +1180,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 45.630 276.000 45.910 284.000 ;
+        RECT 45.170 276.000 45.450 284.000 ;
     END
   END io_b_dat_o_5[2]
   PIN io_b_dat_o_5[3]
@@ -1188,7 +1188,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 64.490 276.000 64.770 284.000 ;
+        RECT 63.570 276.000 63.850 284.000 ;
     END
   END io_b_dat_o_5[3]
   PIN io_b_dat_o_5[4]
@@ -1196,7 +1196,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 82.890 276.000 83.170 284.000 ;
+        RECT 81.970 276.000 82.250 284.000 ;
     END
   END io_b_dat_o_5[4]
   PIN io_b_dat_o_5[5]
@@ -1204,7 +1204,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 101.290 276.000 101.570 284.000 ;
+        RECT 100.370 276.000 100.650 284.000 ;
     END
   END io_b_dat_o_5[5]
   PIN io_b_dat_o_5[6]
@@ -1212,7 +1212,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 120.150 276.000 120.430 284.000 ;
+        RECT 118.770 276.000 119.050 284.000 ;
     END
   END io_b_dat_o_5[6]
   PIN io_b_dat_o_5[7]
@@ -1220,7 +1220,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 138.550 276.000 138.830 284.000 ;
+        RECT 137.170 276.000 137.450 284.000 ;
     END
   END io_b_dat_o_5[7]
   PIN io_b_dat_o_5[8]
@@ -1228,7 +1228,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 156.950 276.000 157.230 284.000 ;
+        RECT 155.110 276.000 155.390 284.000 ;
     END
   END io_b_dat_o_5[8]
   PIN io_b_dat_o_5[9]
@@ -1236,7 +1236,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 175.350 276.000 175.630 284.000 ;
+        RECT 173.510 276.000 173.790 284.000 ;
     END
   END io_b_dat_o_5[9]
   PIN io_b_dat_o_6[0]
@@ -1252,7 +1252,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 195.590 276.000 195.870 284.000 ;
+        RECT 193.750 276.000 194.030 284.000 ;
     END
   END io_b_dat_o_6[10]
   PIN io_b_dat_o_6[11]
@@ -1260,7 +1260,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 214.450 276.000 214.730 284.000 ;
+        RECT 212.150 276.000 212.430 284.000 ;
     END
   END io_b_dat_o_6[11]
   PIN io_b_dat_o_6[12]
@@ -1268,7 +1268,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 232.850 276.000 233.130 284.000 ;
+        RECT 230.090 276.000 230.370 284.000 ;
     END
   END io_b_dat_o_6[12]
   PIN io_b_dat_o_6[13]
@@ -1276,7 +1276,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 251.250 276.000 251.530 284.000 ;
+        RECT 248.490 276.000 248.770 284.000 ;
     END
   END io_b_dat_o_6[13]
   PIN io_b_dat_o_6[14]
@@ -1284,7 +1284,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 270.110 276.000 270.390 284.000 ;
+        RECT 266.890 276.000 267.170 284.000 ;
     END
   END io_b_dat_o_6[14]
   PIN io_b_dat_o_6[15]
@@ -1292,7 +1292,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 288.510 276.000 288.790 284.000 ;
+        RECT 285.290 276.000 285.570 284.000 ;
     END
   END io_b_dat_o_6[15]
   PIN io_b_dat_o_6[1]
@@ -1300,7 +1300,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 29.070 276.000 29.350 284.000 ;
+        RECT 28.610 276.000 28.890 284.000 ;
     END
   END io_b_dat_o_6[1]
   PIN io_b_dat_o_6[2]
@@ -1308,7 +1308,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 47.470 276.000 47.750 284.000 ;
+        RECT 47.010 276.000 47.290 284.000 ;
     END
   END io_b_dat_o_6[2]
   PIN io_b_dat_o_6[3]
@@ -1316,7 +1316,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 65.870 276.000 66.150 284.000 ;
+        RECT 65.410 276.000 65.690 284.000 ;
     END
   END io_b_dat_o_6[3]
   PIN io_b_dat_o_6[4]
@@ -1324,7 +1324,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 84.730 276.000 85.010 284.000 ;
+        RECT 83.810 276.000 84.090 284.000 ;
     END
   END io_b_dat_o_6[4]
   PIN io_b_dat_o_6[5]
@@ -1332,7 +1332,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 103.130 276.000 103.410 284.000 ;
+        RECT 101.750 276.000 102.030 284.000 ;
     END
   END io_b_dat_o_6[5]
   PIN io_b_dat_o_6[6]
@@ -1340,7 +1340,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 121.530 276.000 121.810 284.000 ;
+        RECT 120.150 276.000 120.430 284.000 ;
     END
   END io_b_dat_o_6[6]
   PIN io_b_dat_o_6[7]
@@ -1348,7 +1348,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 140.390 276.000 140.670 284.000 ;
+        RECT 138.550 276.000 138.830 284.000 ;
     END
   END io_b_dat_o_6[7]
   PIN io_b_dat_o_6[8]
@@ -1356,7 +1356,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 158.790 276.000 159.070 284.000 ;
+        RECT 156.950 276.000 157.230 284.000 ;
     END
   END io_b_dat_o_6[8]
   PIN io_b_dat_o_6[9]
@@ -1364,7 +1364,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 177.190 276.000 177.470 284.000 ;
+        RECT 175.350 276.000 175.630 284.000 ;
     END
   END io_b_dat_o_6[9]
   PIN io_b_dat_o_7[0]
@@ -1380,7 +1380,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 197.430 276.000 197.710 284.000 ;
+        RECT 195.130 276.000 195.410 284.000 ;
     END
   END io_b_dat_o_7[10]
   PIN io_b_dat_o_7[11]
@@ -1388,7 +1388,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 215.830 276.000 216.110 284.000 ;
+        RECT 213.530 276.000 213.810 284.000 ;
     END
   END io_b_dat_o_7[11]
   PIN io_b_dat_o_7[12]
@@ -1396,7 +1396,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 234.690 276.000 234.970 284.000 ;
+        RECT 231.930 276.000 232.210 284.000 ;
     END
   END io_b_dat_o_7[12]
   PIN io_b_dat_o_7[13]
@@ -1404,7 +1404,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 253.090 276.000 253.370 284.000 ;
+        RECT 250.330 276.000 250.610 284.000 ;
     END
   END io_b_dat_o_7[13]
   PIN io_b_dat_o_7[14]
@@ -1412,7 +1412,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 271.490 276.000 271.770 284.000 ;
+        RECT 268.730 276.000 269.010 284.000 ;
     END
   END io_b_dat_o_7[14]
   PIN io_b_dat_o_7[15]
@@ -1420,7 +1420,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 290.350 276.000 290.630 284.000 ;
+        RECT 287.130 276.000 287.410 284.000 ;
     END
   END io_b_dat_o_7[15]
   PIN io_b_dat_o_7[1]
@@ -1436,7 +1436,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 49.310 276.000 49.590 284.000 ;
+        RECT 48.850 276.000 49.130 284.000 ;
     END
   END io_b_dat_o_7[2]
   PIN io_b_dat_o_7[3]
@@ -1444,7 +1444,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 67.710 276.000 67.990 284.000 ;
+        RECT 66.790 276.000 67.070 284.000 ;
     END
   END io_b_dat_o_7[3]
   PIN io_b_dat_o_7[4]
@@ -1452,7 +1452,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 86.110 276.000 86.390 284.000 ;
+        RECT 85.190 276.000 85.470 284.000 ;
     END
   END io_b_dat_o_7[4]
   PIN io_b_dat_o_7[5]
@@ -1460,7 +1460,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 104.970 276.000 105.250 284.000 ;
+        RECT 103.590 276.000 103.870 284.000 ;
     END
   END io_b_dat_o_7[5]
   PIN io_b_dat_o_7[6]
@@ -1468,7 +1468,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 123.370 276.000 123.650 284.000 ;
+        RECT 121.990 276.000 122.270 284.000 ;
     END
   END io_b_dat_o_7[6]
   PIN io_b_dat_o_7[7]
@@ -1476,7 +1476,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 141.770 276.000 142.050 284.000 ;
+        RECT 140.390 276.000 140.670 284.000 ;
     END
   END io_b_dat_o_7[7]
   PIN io_b_dat_o_7[8]
@@ -1484,7 +1484,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 160.170 276.000 160.450 284.000 ;
+        RECT 158.790 276.000 159.070 284.000 ;
     END
   END io_b_dat_o_7[8]
   PIN io_b_dat_o_7[9]
@@ -1492,7 +1492,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 179.030 276.000 179.310 284.000 ;
+        RECT 176.730 276.000 177.010 284.000 ;
     END
   END io_b_dat_o_7[9]
   PIN io_b_dat_o_8[0]
@@ -1500,7 +1500,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 13.890 276.000 14.170 284.000 ;
+        RECT 13.430 276.000 13.710 284.000 ;
     END
   END io_b_dat_o_8[0]
   PIN io_b_dat_o_8[10]
@@ -1508,7 +1508,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 199.270 276.000 199.550 284.000 ;
+        RECT 196.970 276.000 197.250 284.000 ;
     END
   END io_b_dat_o_8[10]
   PIN io_b_dat_o_8[11]
@@ -1516,7 +1516,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 217.670 276.000 217.950 284.000 ;
+        RECT 215.370 276.000 215.650 284.000 ;
     END
   END io_b_dat_o_8[11]
   PIN io_b_dat_o_8[12]
@@ -1524,7 +1524,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 236.070 276.000 236.350 284.000 ;
+        RECT 233.770 276.000 234.050 284.000 ;
     END
   END io_b_dat_o_8[12]
   PIN io_b_dat_o_8[13]
@@ -1532,7 +1532,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 254.930 276.000 255.210 284.000 ;
+        RECT 251.710 276.000 251.990 284.000 ;
     END
   END io_b_dat_o_8[13]
   PIN io_b_dat_o_8[14]
@@ -1540,7 +1540,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 273.330 276.000 273.610 284.000 ;
+        RECT 270.110 276.000 270.390 284.000 ;
     END
   END io_b_dat_o_8[14]
   PIN io_b_dat_o_8[15]
@@ -1548,7 +1548,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 291.730 276.000 292.010 284.000 ;
+        RECT 288.510 276.000 288.790 284.000 ;
     END
   END io_b_dat_o_8[15]
   PIN io_b_dat_o_8[1]
@@ -1556,7 +1556,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 32.290 276.000 32.570 284.000 ;
+        RECT 31.830 276.000 32.110 284.000 ;
     END
   END io_b_dat_o_8[1]
   PIN io_b_dat_o_8[2]
@@ -1564,7 +1564,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 50.690 276.000 50.970 284.000 ;
+        RECT 50.230 276.000 50.510 284.000 ;
     END
   END io_b_dat_o_8[2]
   PIN io_b_dat_o_8[3]
@@ -1572,7 +1572,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 69.550 276.000 69.830 284.000 ;
+        RECT 68.630 276.000 68.910 284.000 ;
     END
   END io_b_dat_o_8[3]
   PIN io_b_dat_o_8[4]
@@ -1580,7 +1580,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 87.950 276.000 88.230 284.000 ;
+        RECT 87.030 276.000 87.310 284.000 ;
     END
   END io_b_dat_o_8[4]
   PIN io_b_dat_o_8[5]
@@ -1588,7 +1588,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 106.350 276.000 106.630 284.000 ;
+        RECT 105.430 276.000 105.710 284.000 ;
     END
   END io_b_dat_o_8[5]
   PIN io_b_dat_o_8[6]
@@ -1596,7 +1596,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 125.210 276.000 125.490 284.000 ;
+        RECT 123.830 276.000 124.110 284.000 ;
     END
   END io_b_dat_o_8[6]
   PIN io_b_dat_o_8[7]
@@ -1604,7 +1604,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 143.610 276.000 143.890 284.000 ;
+        RECT 141.770 276.000 142.050 284.000 ;
     END
   END io_b_dat_o_8[7]
   PIN io_b_dat_o_8[8]
@@ -1612,7 +1612,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 162.010 276.000 162.290 284.000 ;
+        RECT 160.170 276.000 160.450 284.000 ;
     END
   END io_b_dat_o_8[8]
   PIN io_b_dat_o_8[9]
@@ -1620,7 +1620,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 180.410 276.000 180.690 284.000 ;
+        RECT 178.570 276.000 178.850 284.000 ;
     END
   END io_b_dat_o_8[9]
   PIN io_b_dat_o_9[0]
@@ -1636,7 +1636,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 200.650 276.000 200.930 284.000 ;
+        RECT 198.810 276.000 199.090 284.000 ;
     END
   END io_b_dat_o_9[10]
   PIN io_b_dat_o_9[11]
@@ -1644,7 +1644,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 219.510 276.000 219.790 284.000 ;
+        RECT 216.750 276.000 217.030 284.000 ;
     END
   END io_b_dat_o_9[11]
   PIN io_b_dat_o_9[12]
@@ -1652,7 +1652,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 237.910 276.000 238.190 284.000 ;
+        RECT 235.150 276.000 235.430 284.000 ;
     END
   END io_b_dat_o_9[12]
   PIN io_b_dat_o_9[13]
@@ -1660,7 +1660,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 256.310 276.000 256.590 284.000 ;
+        RECT 253.550 276.000 253.830 284.000 ;
     END
   END io_b_dat_o_9[13]
   PIN io_b_dat_o_9[14]
@@ -1668,7 +1668,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 275.170 276.000 275.450 284.000 ;
+        RECT 271.950 276.000 272.230 284.000 ;
     END
   END io_b_dat_o_9[14]
   PIN io_b_dat_o_9[15]
@@ -1676,7 +1676,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 293.570 276.000 293.850 284.000 ;
+        RECT 290.350 276.000 290.630 284.000 ;
     END
   END io_b_dat_o_9[15]
   PIN io_b_dat_o_9[1]
@@ -1684,7 +1684,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 34.130 276.000 34.410 284.000 ;
+        RECT 33.670 276.000 33.950 284.000 ;
     END
   END io_b_dat_o_9[1]
   PIN io_b_dat_o_9[2]
@@ -1692,7 +1692,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 52.530 276.000 52.810 284.000 ;
+        RECT 52.070 276.000 52.350 284.000 ;
     END
   END io_b_dat_o_9[2]
   PIN io_b_dat_o_9[3]
@@ -1700,7 +1700,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 70.930 276.000 71.210 284.000 ;
+        RECT 70.470 276.000 70.750 284.000 ;
     END
   END io_b_dat_o_9[3]
   PIN io_b_dat_o_9[4]
@@ -1708,7 +1708,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 89.790 276.000 90.070 284.000 ;
+        RECT 88.410 276.000 88.690 284.000 ;
     END
   END io_b_dat_o_9[4]
   PIN io_b_dat_o_9[5]
@@ -1716,7 +1716,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 108.190 276.000 108.470 284.000 ;
+        RECT 106.810 276.000 107.090 284.000 ;
     END
   END io_b_dat_o_9[5]
   PIN io_b_dat_o_9[6]
@@ -1724,7 +1724,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 126.590 276.000 126.870 284.000 ;
+        RECT 125.210 276.000 125.490 284.000 ;
     END
   END io_b_dat_o_9[6]
   PIN io_b_dat_o_9[7]
@@ -1732,7 +1732,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 145.450 276.000 145.730 284.000 ;
+        RECT 143.610 276.000 143.890 284.000 ;
     END
   END io_b_dat_o_9[7]
   PIN io_b_dat_o_9[8]
@@ -1740,7 +1740,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 163.850 276.000 164.130 284.000 ;
+        RECT 162.010 276.000 162.290 284.000 ;
     END
   END io_b_dat_o_9[8]
   PIN io_b_dat_o_9[9]
@@ -1748,7 +1748,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 182.250 276.000 182.530 284.000 ;
+        RECT 180.410 276.000 180.690 284.000 ;
     END
   END io_b_dat_o_9[9]
   PIN io_b_we_i
@@ -1756,7 +1756,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 81.510 -4.000 81.790 4.000 ;
+        RECT 82.890 -4.000 83.170 4.000 ;
     END
   END io_b_we_i
   PIN io_cs_i
@@ -2795,16 +2795,16 @@ MACRO cic_con
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-      LAYER met2 ;
-        RECT 283.450 -4.000 283.730 4.000 ;
+      LAYER met3 ;
+        RECT 296.000 269.320 304.000 269.920 ;
     END
   END io_dsi_in[0]
   PIN io_dsi_in[1]
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-      LAYER met3 ;
-        RECT 296.000 269.320 304.000 269.920 ;
+      LAYER met2 ;
+        RECT 295.410 276.000 295.690 284.000 ;
     END
   END io_dsi_in[1]
   PIN io_dsi_in[2]
@@ -2812,7 +2812,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 289.890 -4.000 290.170 4.000 ;
+        RECT 296.790 276.000 297.070 284.000 ;
     END
   END io_dsi_in[2]
   PIN io_dsi_in[3]
@@ -2820,7 +2820,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT -4.000 274.080 4.000 274.680 ;
+        RECT 296.000 273.400 304.000 274.000 ;
     END
   END io_dsi_in[3]
   PIN io_dsi_in[4]
@@ -2828,7 +2828,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 296.330 -4.000 296.610 4.000 ;
+        RECT 298.630 276.000 298.910 284.000 ;
     END
   END io_dsi_in[4]
   PIN io_dsi_in[5]
@@ -2836,7 +2836,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met3 ;
-        RECT 296.000 273.400 304.000 274.000 ;
+        RECT -4.000 277.480 4.000 278.080 ;
     END
   END io_dsi_in[5]
   PIN io_dsi_in[6]
@@ -2851,8 +2851,8 @@ MACRO cic_con
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-      LAYER met3 ;
-        RECT -4.000 277.480 4.000 278.080 ;
+      LAYER met2 ;
+        RECT 296.330 -4.000 296.610 4.000 ;
     END
   END io_dsi_in[7]
   PIN io_dsi_o
@@ -2868,15 +2868,23 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 277.010 -4.000 277.290 4.000 ;
+        RECT 289.890 -4.000 290.170 4.000 ;
     END
   END io_irq
+  PIN io_sync_out
+    DIRECTION OUTPUT TRISTATE ;
+    USE SIGNAL ;
+    PORT
+      LAYER met2 ;
+        RECT 282.990 -4.000 283.270 4.000 ;
+    END
+  END io_sync_out
   PIN io_vout[0]
     DIRECTION OUTPUT TRISTATE ;
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 205.250 -4.000 205.530 4.000 ;
+        RECT 209.850 -4.000 210.130 4.000 ;
     END
   END io_vout[0]
   PIN io_vout[10]
@@ -2884,7 +2892,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 270.570 -4.000 270.850 4.000 ;
+        RECT 276.550 -4.000 276.830 4.000 ;
     END
   END io_vout[10]
   PIN io_vout[1]
@@ -2892,7 +2900,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 211.690 -4.000 211.970 4.000 ;
+        RECT 216.290 -4.000 216.570 4.000 ;
     END
   END io_vout[1]
   PIN io_vout[2]
@@ -2900,7 +2908,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 218.130 -4.000 218.410 4.000 ;
+        RECT 223.190 -4.000 223.470 4.000 ;
     END
   END io_vout[2]
   PIN io_vout[3]
@@ -2908,7 +2916,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 224.570 -4.000 224.850 4.000 ;
+        RECT 229.630 -4.000 229.910 4.000 ;
     END
   END io_vout[3]
   PIN io_vout[4]
@@ -2916,7 +2924,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 231.470 -4.000 231.750 4.000 ;
+        RECT 236.530 -4.000 236.810 4.000 ;
     END
   END io_vout[4]
   PIN io_vout[5]
@@ -2924,7 +2932,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 237.910 -4.000 238.190 4.000 ;
+        RECT 242.970 -4.000 243.250 4.000 ;
     END
   END io_vout[5]
   PIN io_vout[6]
@@ -2932,7 +2940,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 244.350 -4.000 244.630 4.000 ;
+        RECT 249.870 -4.000 250.150 4.000 ;
     END
   END io_vout[6]
   PIN io_vout[7]
@@ -2940,7 +2948,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 250.790 -4.000 251.070 4.000 ;
+        RECT 256.310 -4.000 256.590 4.000 ;
     END
   END io_vout[7]
   PIN io_vout[8]
@@ -2948,7 +2956,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 257.230 -4.000 257.510 4.000 ;
+        RECT 263.210 -4.000 263.490 4.000 ;
     END
   END io_vout[8]
   PIN io_vout[9]
@@ -2956,7 +2964,7 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 263.670 -4.000 263.950 4.000 ;
+        RECT 269.650 -4.000 269.930 4.000 ;
     END
   END io_vout[9]
   PIN io_we_i
@@ -2972,15 +2980,15 @@ MACRO cic_con
     USE SIGNAL ;
     PORT
       LAYER met2 ;
-        RECT 296.790 276.000 297.070 284.000 ;
+        RECT 293.570 276.000 293.850 284.000 ;
     END
   END wb_clk_i
   PIN wb_rst_i
     DIRECTION INPUT ;
     USE SIGNAL ;
     PORT
-      LAYER met2 ;
-        RECT 298.630 276.000 298.910 284.000 ;
+      LAYER met3 ;
+        RECT -4.000 274.080 4.000 274.680 ;
     END
   END wb_rst_i
   PIN vccd1
@@ -3017,9 +3025,9 @@ MACRO cic_con
   END vssd1
   OBS
       LAYER li1 ;
-        RECT 5.520 10.795 295.175 267.835 ;
+        RECT 5.520 10.795 294.400 266.645 ;
       LAYER met1 ;
-        RECT 0.530 10.240 298.930 275.020 ;
+        RECT 0.530 6.500 298.930 270.940 ;
       LAYER met2 ;
         RECT 1.110 275.720 1.650 277.965 ;
         RECT 2.490 275.720 3.490 277.965 ;
@@ -3028,81 +3036,82 @@ MACRO cic_con
         RECT 7.550 275.720 8.550 277.965 ;
         RECT 9.390 275.720 9.930 277.965 ;
         RECT 10.770 275.720 11.770 277.965 ;
-        RECT 12.610 275.720 13.610 277.965 ;
-        RECT 14.450 275.720 14.990 277.965 ;
+        RECT 12.610 275.720 13.150 277.965 ;
+        RECT 13.990 275.720 14.990 277.965 ;
         RECT 15.830 275.720 16.830 277.965 ;
-        RECT 17.670 275.720 18.670 277.965 ;
-        RECT 19.510 275.720 20.050 277.965 ;
+        RECT 17.670 275.720 18.210 277.965 ;
+        RECT 19.050 275.720 20.050 277.965 ;
         RECT 20.890 275.720 21.890 277.965 ;
-        RECT 22.730 275.720 23.730 277.965 ;
-        RECT 24.570 275.720 25.110 277.965 ;
-        RECT 25.950 275.720 26.950 277.965 ;
-        RECT 27.790 275.720 28.790 277.965 ;
-        RECT 29.630 275.720 30.170 277.965 ;
-        RECT 31.010 275.720 32.010 277.965 ;
-        RECT 32.850 275.720 33.850 277.965 ;
-        RECT 34.690 275.720 35.230 277.965 ;
-        RECT 36.070 275.720 37.070 277.965 ;
-        RECT 37.910 275.720 38.910 277.965 ;
-        RECT 39.750 275.720 40.290 277.965 ;
-        RECT 41.130 275.720 42.130 277.965 ;
-        RECT 42.970 275.720 43.970 277.965 ;
-        RECT 44.810 275.720 45.350 277.965 ;
-        RECT 46.190 275.720 47.190 277.965 ;
-        RECT 48.030 275.720 49.030 277.965 ;
-        RECT 49.870 275.720 50.410 277.965 ;
-        RECT 51.250 275.720 52.250 277.965 ;
-        RECT 53.090 275.720 54.090 277.965 ;
-        RECT 54.930 275.720 55.470 277.965 ;
-        RECT 56.310 275.720 57.310 277.965 ;
-        RECT 58.150 275.720 59.150 277.965 ;
-        RECT 59.990 275.720 60.530 277.965 ;
-        RECT 61.370 275.720 62.370 277.965 ;
-        RECT 63.210 275.720 64.210 277.965 ;
-        RECT 65.050 275.720 65.590 277.965 ;
-        RECT 66.430 275.720 67.430 277.965 ;
-        RECT 68.270 275.720 69.270 277.965 ;
-        RECT 70.110 275.720 70.650 277.965 ;
-        RECT 71.490 275.720 72.490 277.965 ;
-        RECT 73.330 275.720 74.330 277.965 ;
-        RECT 75.170 275.720 75.710 277.965 ;
-        RECT 76.550 275.720 77.550 277.965 ;
-        RECT 78.390 275.720 79.390 277.965 ;
-        RECT 80.230 275.720 80.770 277.965 ;
-        RECT 81.610 275.720 82.610 277.965 ;
-        RECT 83.450 275.720 84.450 277.965 ;
-        RECT 85.290 275.720 85.830 277.965 ;
-        RECT 86.670 275.720 87.670 277.965 ;
-        RECT 88.510 275.720 89.510 277.965 ;
-        RECT 90.350 275.720 90.890 277.965 ;
-        RECT 91.730 275.720 92.730 277.965 ;
-        RECT 93.570 275.720 94.570 277.965 ;
-        RECT 95.410 275.720 95.950 277.965 ;
-        RECT 96.790 275.720 97.790 277.965 ;
-        RECT 98.630 275.720 99.630 277.965 ;
-        RECT 100.470 275.720 101.010 277.965 ;
-        RECT 101.850 275.720 102.850 277.965 ;
-        RECT 103.690 275.720 104.690 277.965 ;
-        RECT 105.530 275.720 106.070 277.965 ;
-        RECT 106.910 275.720 107.910 277.965 ;
-        RECT 108.750 275.720 109.750 277.965 ;
-        RECT 110.590 275.720 111.130 277.965 ;
-        RECT 111.970 275.720 112.970 277.965 ;
-        RECT 113.810 275.720 114.810 277.965 ;
-        RECT 115.650 275.720 116.190 277.965 ;
-        RECT 117.030 275.720 118.030 277.965 ;
-        RECT 118.870 275.720 119.870 277.965 ;
-        RECT 120.710 275.720 121.250 277.965 ;
-        RECT 122.090 275.720 123.090 277.965 ;
-        RECT 123.930 275.720 124.930 277.965 ;
-        RECT 125.770 275.720 126.310 277.965 ;
-        RECT 127.150 275.720 128.150 277.965 ;
+        RECT 22.730 275.720 23.270 277.965 ;
+        RECT 24.110 275.720 25.110 277.965 ;
+        RECT 25.950 275.720 26.490 277.965 ;
+        RECT 27.330 275.720 28.330 277.965 ;
+        RECT 29.170 275.720 30.170 277.965 ;
+        RECT 31.010 275.720 31.550 277.965 ;
+        RECT 32.390 275.720 33.390 277.965 ;
+        RECT 34.230 275.720 35.230 277.965 ;
+        RECT 36.070 275.720 36.610 277.965 ;
+        RECT 37.450 275.720 38.450 277.965 ;
+        RECT 39.290 275.720 39.830 277.965 ;
+        RECT 40.670 275.720 41.670 277.965 ;
+        RECT 42.510 275.720 43.510 277.965 ;
+        RECT 44.350 275.720 44.890 277.965 ;
+        RECT 45.730 275.720 46.730 277.965 ;
+        RECT 47.570 275.720 48.570 277.965 ;
+        RECT 49.410 275.720 49.950 277.965 ;
+        RECT 50.790 275.720 51.790 277.965 ;
+        RECT 52.630 275.720 53.170 277.965 ;
+        RECT 54.010 275.720 55.010 277.965 ;
+        RECT 55.850 275.720 56.850 277.965 ;
+        RECT 57.690 275.720 58.230 277.965 ;
+        RECT 59.070 275.720 60.070 277.965 ;
+        RECT 60.910 275.720 61.910 277.965 ;
+        RECT 62.750 275.720 63.290 277.965 ;
+        RECT 64.130 275.720 65.130 277.965 ;
+        RECT 65.970 275.720 66.510 277.965 ;
+        RECT 67.350 275.720 68.350 277.965 ;
+        RECT 69.190 275.720 70.190 277.965 ;
+        RECT 71.030 275.720 71.570 277.965 ;
+        RECT 72.410 275.720 73.410 277.965 ;
+        RECT 74.250 275.720 75.250 277.965 ;
+        RECT 76.090 275.720 76.630 277.965 ;
+        RECT 77.470 275.720 78.470 277.965 ;
+        RECT 79.310 275.720 79.850 277.965 ;
+        RECT 80.690 275.720 81.690 277.965 ;
+        RECT 82.530 275.720 83.530 277.965 ;
+        RECT 84.370 275.720 84.910 277.965 ;
+        RECT 85.750 275.720 86.750 277.965 ;
+        RECT 87.590 275.720 88.130 277.965 ;
+        RECT 88.970 275.720 89.970 277.965 ;
+        RECT 90.810 275.720 91.810 277.965 ;
+        RECT 92.650 275.720 93.190 277.965 ;
+        RECT 94.030 275.720 95.030 277.965 ;
+        RECT 95.870 275.720 96.870 277.965 ;
+        RECT 97.710 275.720 98.250 277.965 ;
+        RECT 99.090 275.720 100.090 277.965 ;
+        RECT 100.930 275.720 101.470 277.965 ;
+        RECT 102.310 275.720 103.310 277.965 ;
+        RECT 104.150 275.720 105.150 277.965 ;
+        RECT 105.990 275.720 106.530 277.965 ;
+        RECT 107.370 275.720 108.370 277.965 ;
+        RECT 109.210 275.720 110.210 277.965 ;
+        RECT 111.050 275.720 111.590 277.965 ;
+        RECT 112.430 275.720 113.430 277.965 ;
+        RECT 114.270 275.720 114.810 277.965 ;
+        RECT 115.650 275.720 116.650 277.965 ;
+        RECT 117.490 275.720 118.490 277.965 ;
+        RECT 119.330 275.720 119.870 277.965 ;
+        RECT 120.710 275.720 121.710 277.965 ;
+        RECT 122.550 275.720 123.550 277.965 ;
+        RECT 124.390 275.720 124.930 277.965 ;
+        RECT 125.770 275.720 126.770 277.965 ;
+        RECT 127.610 275.720 128.150 277.965 ;
         RECT 128.990 275.720 129.990 277.965 ;
-        RECT 130.830 275.720 131.370 277.965 ;
-        RECT 132.210 275.720 133.210 277.965 ;
+        RECT 130.830 275.720 131.830 277.965 ;
+        RECT 132.670 275.720 133.210 277.965 ;
         RECT 134.050 275.720 135.050 277.965 ;
-        RECT 135.890 275.720 136.430 277.965 ;
-        RECT 137.270 275.720 138.270 277.965 ;
+        RECT 135.890 275.720 136.890 277.965 ;
+        RECT 137.730 275.720 138.270 277.965 ;
         RECT 139.110 275.720 140.110 277.965 ;
         RECT 140.950 275.720 141.490 277.965 ;
         RECT 142.330 275.720 143.330 277.965 ;
@@ -3117,81 +3126,82 @@ MACRO cic_con
         RECT 157.510 275.720 158.510 277.965 ;
         RECT 159.350 275.720 159.890 277.965 ;
         RECT 160.730 275.720 161.730 277.965 ;
-        RECT 162.570 275.720 163.570 277.965 ;
-        RECT 164.410 275.720 164.950 277.965 ;
+        RECT 162.570 275.720 163.110 277.965 ;
+        RECT 163.950 275.720 164.950 277.965 ;
         RECT 165.790 275.720 166.790 277.965 ;
-        RECT 167.630 275.720 168.630 277.965 ;
-        RECT 169.470 275.720 170.010 277.965 ;
+        RECT 167.630 275.720 168.170 277.965 ;
+        RECT 169.010 275.720 170.010 277.965 ;
         RECT 170.850 275.720 171.850 277.965 ;
-        RECT 172.690 275.720 173.690 277.965 ;
-        RECT 174.530 275.720 175.070 277.965 ;
-        RECT 175.910 275.720 176.910 277.965 ;
-        RECT 177.750 275.720 178.750 277.965 ;
-        RECT 179.590 275.720 180.130 277.965 ;
-        RECT 180.970 275.720 181.970 277.965 ;
-        RECT 182.810 275.720 183.810 277.965 ;
-        RECT 184.650 275.720 185.190 277.965 ;
-        RECT 186.030 275.720 187.030 277.965 ;
-        RECT 187.870 275.720 188.870 277.965 ;
-        RECT 189.710 275.720 190.250 277.965 ;
-        RECT 191.090 275.720 192.090 277.965 ;
-        RECT 192.930 275.720 193.930 277.965 ;
-        RECT 194.770 275.720 195.310 277.965 ;
-        RECT 196.150 275.720 197.150 277.965 ;
-        RECT 197.990 275.720 198.990 277.965 ;
-        RECT 199.830 275.720 200.370 277.965 ;
-        RECT 201.210 275.720 202.210 277.965 ;
-        RECT 203.050 275.720 204.050 277.965 ;
-        RECT 204.890 275.720 205.430 277.965 ;
-        RECT 206.270 275.720 207.270 277.965 ;
-        RECT 208.110 275.720 209.110 277.965 ;
-        RECT 209.950 275.720 210.490 277.965 ;
-        RECT 211.330 275.720 212.330 277.965 ;
-        RECT 213.170 275.720 214.170 277.965 ;
-        RECT 215.010 275.720 215.550 277.965 ;
-        RECT 216.390 275.720 217.390 277.965 ;
-        RECT 218.230 275.720 219.230 277.965 ;
-        RECT 220.070 275.720 220.610 277.965 ;
-        RECT 221.450 275.720 222.450 277.965 ;
-        RECT 223.290 275.720 224.290 277.965 ;
-        RECT 225.130 275.720 225.670 277.965 ;
-        RECT 226.510 275.720 227.510 277.965 ;
-        RECT 228.350 275.720 229.350 277.965 ;
-        RECT 230.190 275.720 230.730 277.965 ;
-        RECT 231.570 275.720 232.570 277.965 ;
-        RECT 233.410 275.720 234.410 277.965 ;
-        RECT 235.250 275.720 235.790 277.965 ;
-        RECT 236.630 275.720 237.630 277.965 ;
-        RECT 238.470 275.720 239.470 277.965 ;
-        RECT 240.310 275.720 240.850 277.965 ;
-        RECT 241.690 275.720 242.690 277.965 ;
-        RECT 243.530 275.720 244.530 277.965 ;
-        RECT 245.370 275.720 245.910 277.965 ;
-        RECT 246.750 275.720 247.750 277.965 ;
-        RECT 248.590 275.720 249.590 277.965 ;
-        RECT 250.430 275.720 250.970 277.965 ;
-        RECT 251.810 275.720 252.810 277.965 ;
-        RECT 253.650 275.720 254.650 277.965 ;
-        RECT 255.490 275.720 256.030 277.965 ;
-        RECT 256.870 275.720 257.870 277.965 ;
-        RECT 258.710 275.720 259.710 277.965 ;
-        RECT 260.550 275.720 261.090 277.965 ;
-        RECT 261.930 275.720 262.930 277.965 ;
-        RECT 263.770 275.720 264.770 277.965 ;
-        RECT 265.610 275.720 266.150 277.965 ;
-        RECT 266.990 275.720 267.990 277.965 ;
-        RECT 268.830 275.720 269.830 277.965 ;
-        RECT 270.670 275.720 271.210 277.965 ;
-        RECT 272.050 275.720 273.050 277.965 ;
-        RECT 273.890 275.720 274.890 277.965 ;
-        RECT 275.730 275.720 276.270 277.965 ;
-        RECT 277.110 275.720 278.110 277.965 ;
+        RECT 172.690 275.720 173.230 277.965 ;
+        RECT 174.070 275.720 175.070 277.965 ;
+        RECT 175.910 275.720 176.450 277.965 ;
+        RECT 177.290 275.720 178.290 277.965 ;
+        RECT 179.130 275.720 180.130 277.965 ;
+        RECT 180.970 275.720 181.510 277.965 ;
+        RECT 182.350 275.720 183.350 277.965 ;
+        RECT 184.190 275.720 185.190 277.965 ;
+        RECT 186.030 275.720 186.570 277.965 ;
+        RECT 187.410 275.720 188.410 277.965 ;
+        RECT 189.250 275.720 189.790 277.965 ;
+        RECT 190.630 275.720 191.630 277.965 ;
+        RECT 192.470 275.720 193.470 277.965 ;
+        RECT 194.310 275.720 194.850 277.965 ;
+        RECT 195.690 275.720 196.690 277.965 ;
+        RECT 197.530 275.720 198.530 277.965 ;
+        RECT 199.370 275.720 199.910 277.965 ;
+        RECT 200.750 275.720 201.750 277.965 ;
+        RECT 202.590 275.720 203.130 277.965 ;
+        RECT 203.970 275.720 204.970 277.965 ;
+        RECT 205.810 275.720 206.810 277.965 ;
+        RECT 207.650 275.720 208.190 277.965 ;
+        RECT 209.030 275.720 210.030 277.965 ;
+        RECT 210.870 275.720 211.870 277.965 ;
+        RECT 212.710 275.720 213.250 277.965 ;
+        RECT 214.090 275.720 215.090 277.965 ;
+        RECT 215.930 275.720 216.470 277.965 ;
+        RECT 217.310 275.720 218.310 277.965 ;
+        RECT 219.150 275.720 220.150 277.965 ;
+        RECT 220.990 275.720 221.530 277.965 ;
+        RECT 222.370 275.720 223.370 277.965 ;
+        RECT 224.210 275.720 225.210 277.965 ;
+        RECT 226.050 275.720 226.590 277.965 ;
+        RECT 227.430 275.720 228.430 277.965 ;
+        RECT 229.270 275.720 229.810 277.965 ;
+        RECT 230.650 275.720 231.650 277.965 ;
+        RECT 232.490 275.720 233.490 277.965 ;
+        RECT 234.330 275.720 234.870 277.965 ;
+        RECT 235.710 275.720 236.710 277.965 ;
+        RECT 237.550 275.720 238.090 277.965 ;
+        RECT 238.930 275.720 239.930 277.965 ;
+        RECT 240.770 275.720 241.770 277.965 ;
+        RECT 242.610 275.720 243.150 277.965 ;
+        RECT 243.990 275.720 244.990 277.965 ;
+        RECT 245.830 275.720 246.830 277.965 ;
+        RECT 247.670 275.720 248.210 277.965 ;
+        RECT 249.050 275.720 250.050 277.965 ;
+        RECT 250.890 275.720 251.430 277.965 ;
+        RECT 252.270 275.720 253.270 277.965 ;
+        RECT 254.110 275.720 255.110 277.965 ;
+        RECT 255.950 275.720 256.490 277.965 ;
+        RECT 257.330 275.720 258.330 277.965 ;
+        RECT 259.170 275.720 260.170 277.965 ;
+        RECT 261.010 275.720 261.550 277.965 ;
+        RECT 262.390 275.720 263.390 277.965 ;
+        RECT 264.230 275.720 264.770 277.965 ;
+        RECT 265.610 275.720 266.610 277.965 ;
+        RECT 267.450 275.720 268.450 277.965 ;
+        RECT 269.290 275.720 269.830 277.965 ;
+        RECT 270.670 275.720 271.670 277.965 ;
+        RECT 272.510 275.720 273.510 277.965 ;
+        RECT 274.350 275.720 274.890 277.965 ;
+        RECT 275.730 275.720 276.730 277.965 ;
+        RECT 277.570 275.720 278.110 277.965 ;
         RECT 278.950 275.720 279.950 277.965 ;
-        RECT 280.790 275.720 281.330 277.965 ;
-        RECT 282.170 275.720 283.170 277.965 ;
+        RECT 280.790 275.720 281.790 277.965 ;
+        RECT 282.630 275.720 283.170 277.965 ;
         RECT 284.010 275.720 285.010 277.965 ;
-        RECT 285.850 275.720 286.390 277.965 ;
-        RECT 287.230 275.720 288.230 277.965 ;
+        RECT 285.850 275.720 286.850 277.965 ;
+        RECT 287.690 275.720 288.230 277.965 ;
         RECT 289.070 275.720 290.070 277.965 ;
         RECT 290.910 275.720 291.450 277.965 ;
         RECT 292.290 275.720 293.290 277.965 ;
@@ -3202,48 +3212,47 @@ MACRO cic_con
         RECT 0.560 1.515 3.030 4.280 ;
         RECT 3.870 1.515 9.470 4.280 ;
         RECT 10.310 1.515 15.910 4.280 ;
-        RECT 16.750 1.515 22.350 4.280 ;
-        RECT 23.190 1.515 28.790 4.280 ;
-        RECT 29.630 1.515 35.230 4.280 ;
-        RECT 36.070 1.515 42.130 4.280 ;
-        RECT 42.970 1.515 48.570 4.280 ;
-        RECT 49.410 1.515 55.010 4.280 ;
-        RECT 55.850 1.515 61.450 4.280 ;
-        RECT 62.290 1.515 67.890 4.280 ;
-        RECT 68.730 1.515 74.330 4.280 ;
-        RECT 75.170 1.515 81.230 4.280 ;
-        RECT 82.070 1.515 87.670 4.280 ;
-        RECT 88.510 1.515 94.110 4.280 ;
-        RECT 94.950 1.515 100.550 4.280 ;
-        RECT 101.390 1.515 106.990 4.280 ;
-        RECT 107.830 1.515 113.430 4.280 ;
-        RECT 114.270 1.515 120.330 4.280 ;
-        RECT 121.170 1.515 126.770 4.280 ;
-        RECT 127.610 1.515 133.210 4.280 ;
-        RECT 134.050 1.515 139.650 4.280 ;
-        RECT 140.490 1.515 146.090 4.280 ;
-        RECT 146.930 1.515 152.990 4.280 ;
-        RECT 153.830 1.515 159.430 4.280 ;
-        RECT 160.270 1.515 165.870 4.280 ;
-        RECT 166.710 1.515 172.310 4.280 ;
-        RECT 173.150 1.515 178.750 4.280 ;
-        RECT 179.590 1.515 185.190 4.280 ;
-        RECT 186.030 1.515 192.090 4.280 ;
-        RECT 192.930 1.515 198.530 4.280 ;
-        RECT 199.370 1.515 204.970 4.280 ;
-        RECT 205.810 1.515 211.410 4.280 ;
-        RECT 212.250 1.515 217.850 4.280 ;
-        RECT 218.690 1.515 224.290 4.280 ;
-        RECT 225.130 1.515 231.190 4.280 ;
-        RECT 232.030 1.515 237.630 4.280 ;
-        RECT 238.470 1.515 244.070 4.280 ;
-        RECT 244.910 1.515 250.510 4.280 ;
-        RECT 251.350 1.515 256.950 4.280 ;
-        RECT 257.790 1.515 263.390 4.280 ;
-        RECT 264.230 1.515 270.290 4.280 ;
-        RECT 271.130 1.515 276.730 4.280 ;
-        RECT 277.570 1.515 283.170 4.280 ;
-        RECT 284.010 1.515 289.610 4.280 ;
+        RECT 16.750 1.515 22.810 4.280 ;
+        RECT 23.650 1.515 29.250 4.280 ;
+        RECT 30.090 1.515 36.150 4.280 ;
+        RECT 36.990 1.515 42.590 4.280 ;
+        RECT 43.430 1.515 49.490 4.280 ;
+        RECT 50.330 1.515 55.930 4.280 ;
+        RECT 56.770 1.515 62.830 4.280 ;
+        RECT 63.670 1.515 69.270 4.280 ;
+        RECT 70.110 1.515 76.170 4.280 ;
+        RECT 77.010 1.515 82.610 4.280 ;
+        RECT 83.450 1.515 89.510 4.280 ;
+        RECT 90.350 1.515 95.950 4.280 ;
+        RECT 96.790 1.515 102.850 4.280 ;
+        RECT 103.690 1.515 109.290 4.280 ;
+        RECT 110.130 1.515 116.190 4.280 ;
+        RECT 117.030 1.515 122.630 4.280 ;
+        RECT 123.470 1.515 129.530 4.280 ;
+        RECT 130.370 1.515 135.970 4.280 ;
+        RECT 136.810 1.515 142.870 4.280 ;
+        RECT 143.710 1.515 149.310 4.280 ;
+        RECT 150.150 1.515 156.210 4.280 ;
+        RECT 157.050 1.515 162.650 4.280 ;
+        RECT 163.490 1.515 169.550 4.280 ;
+        RECT 170.390 1.515 175.990 4.280 ;
+        RECT 176.830 1.515 182.890 4.280 ;
+        RECT 183.730 1.515 189.330 4.280 ;
+        RECT 190.170 1.515 196.230 4.280 ;
+        RECT 197.070 1.515 202.670 4.280 ;
+        RECT 203.510 1.515 209.570 4.280 ;
+        RECT 210.410 1.515 216.010 4.280 ;
+        RECT 216.850 1.515 222.910 4.280 ;
+        RECT 223.750 1.515 229.350 4.280 ;
+        RECT 230.190 1.515 236.250 4.280 ;
+        RECT 237.090 1.515 242.690 4.280 ;
+        RECT 243.530 1.515 249.590 4.280 ;
+        RECT 250.430 1.515 256.030 4.280 ;
+        RECT 256.870 1.515 262.930 4.280 ;
+        RECT 263.770 1.515 269.370 4.280 ;
+        RECT 270.210 1.515 276.270 4.280 ;
+        RECT 277.110 1.515 282.710 4.280 ;
+        RECT 283.550 1.515 289.610 4.280 ;
         RECT 290.450 1.515 296.050 4.280 ;
         RECT 296.890 1.515 298.900 4.280 ;
       LAYER met3 ;

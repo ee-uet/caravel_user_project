@@ -1,4 +1,4 @@
-// SPDX-FileCopyrightText: 2020 Efabless Corporation
+// SPDX-FileCopyrightText: 2021 EE, UET Lahore
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 // SPDX-License-Identifier: Apache-2.0
+// SPDX-FileContributor: Modified by Tayyeb Mahmood <tayyeb@uet.edu.pk>
 
 // Include caravel global defines for the number of the user project IO pads 
 `include "defines.v"
@@ -23,6 +24,23 @@
     `include "gl/user_project_wrapper.v"
     `include "gl/user_proj_example.v"
 `else
+    `include "ACC8.v"
+    `include "CICBlock.v"
+    `include "Interlink_Module.v"
+    `include "PID_Controller.v"
+    `include "vedic_16x16.v"
+    `include "vedic_8x8.v"
+    `include "CICBlock_Anon.v"
+    `include "CICControl.v"
+    `include "MotorControl.v"
+    `include "PWM.v"
+    `include "sin3.v"
+    `include "vedic_2x2.v"
+    `include "wb_local.v"
+    `include "cic_block.v"
+    `include "cic_con.v"
+    `include "motor_top.v"
+    `include "Quad_Encoder.v"
+    `include "vedic_4x4.v"
     `include "user_project_wrapper.v"
-    `include "user_proj_example.v"
 `endif
